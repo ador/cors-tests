@@ -11,7 +11,9 @@ Testing how CORS works
 
 - 'cd withNodeJs'
 - 'node server.js'
-- In a browser: http://localhost:8081/listUsers
+- In a browser: 
+    - http://localhost:8081/listUsers  (list all users)
+    - http://localhost:8081/3  (get details of a user by ID)
 
 ## Sources, tutorials that were used
 
