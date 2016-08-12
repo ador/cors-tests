@@ -17,8 +17,17 @@ Testing how CORS works
 
 ## Sources, tutorials that were used
 
+### CORS
+
+- https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
+- http://www.html5rocks.com/en/tutorials/cors/
+- http://www.html5rocks.com/static/images/cors_server_flowchart.png
+
 ### NodeJs example
-http://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm
+
+- http://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm
 
 ### Spray example
-TODO
+
+- https://coderwall.com/p/0izzta/cors-directive-for-spray
+
